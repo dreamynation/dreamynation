@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sen, I'm new to Github!
-- 👀 I’m interested in improving my overal logical thinking and programming.
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning c++, web developement, and python.
-- 💞️ I’m looking to collaborate on simple projects for beginners.
+- 💞️ I’m looking to ...
 - 📫 Please reach out to me on Discord! --> Sen#2726
 - 😊 Thank you!
 
