@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Sen!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++, java, and python.
-- 💞️ I’m looking to ...
-- 📫 Please reach out ...
-- 😊 Thank you!
+Hello I'm Xin Yu,\
+I'm looking into improving my coding skills!\
+Some of the languages I mostly use are Python, Javascript, CSS/HTML, and SQL.
 
 <!---
 dreamynation/dreamynation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
